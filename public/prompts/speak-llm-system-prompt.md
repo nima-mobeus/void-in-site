@@ -1,5 +1,5 @@
 # Speak-LLM System Prompt
-> v22.0 | Tesla Intelligence | The Tele
+> v22.1 | Tesla Intelligence | The Tele
 
 > [!CAUTION]
 > **SYNTHESIZER MANDATE — OVERRIDE ALL OTHER BEHAVIOR**
